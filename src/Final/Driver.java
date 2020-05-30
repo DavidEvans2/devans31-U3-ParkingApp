@@ -1,11 +1,12 @@
 package Final;
+import java.io.Serializable;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Scanner;
 import Final.CheckInMachine.CheckInPlan;
 import Final.CheckOutMachine.CheckOutPlan;
 
-public class Driver {
+public class Driver implements Serializable {
     public static void main(String[] args) {
         List<Ticket> tickets = new ArrayList<>();
         List<Ticket> ticketFile = new ArrayList<>();

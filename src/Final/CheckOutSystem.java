@@ -16,6 +16,11 @@ public interface CheckOutSystem {
     int getVisitorTotal();
 
     /**
+     * returns total sales
+     */
+    double getSalesTotal();
+
+    /**
      * Displays ticket info
      */
     void displayInfo();
