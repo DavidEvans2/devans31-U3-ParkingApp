@@ -1,0 +1,21 @@
+    Ticket Summary
+----------------------
+Tickets from
+05/28/2020 05:00:00
+----------------------
+
+Tickets from
+05/28/2020 13:00:25
+----------------------
+
+Tickets from
+05/28/2020 16:00:34
+----------------------
+Ticket ID: 1, Cost: 6
+Ticket ID: 2, Cost: 20
+Ticket ID: 3, Cost: 25
+
+Tickets from
+05/29/2020 15:59:32
+----------------------
+Ticket ID: 1, Cost: 8
